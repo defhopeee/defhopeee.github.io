@@ -5,7 +5,7 @@ layout: page
 
 # Archives
 
-Welcome to my portfolio archives. Here you can find all my projects, lab challenges, and blog posts organized chronologically.
+Welcome to my portfolio archives. Here you can find my projects, lab challenges, and blog posts organized for easy browsing.
 
 ## Projects
 - **E-Commerce Shoe Ordering System** (Feb 2025 – Mar 2025) — Scalable platform with M-Pesa integration.  
@@ -13,11 +13,11 @@ Welcome to my portfolio archives. Here you can find all my projects, lab challen
 - **Personal Portfolio Website** (Aug 2025) — Mobile-first portfolio showcasing 4+ projects.
 
 ## Lab Challenges
-- **Local File Inclusion (LFI)** — Exploited a vulnerable training app to read arbitrary files, learned proper input sanitization.  
-- **SQL Injection — Login Bypass** — Practiced bypassing login forms and extracting usernames using SQLi safely.
+- **Local File Inclusion (LFI)** — Exploited a vulnerable training app to read arbitrary files; learned proper input sanitization.  
+- **SQL Injection — Login Bypass** — Practiced bypassing login forms and safely extracting test data using SQLi techniques.
 
-## Blog Posts (optional)
-*(If you decide to add technical writeups or reflections, they will appear here automatically.)*
+## Blog Posts
+- (Optional) Technical writeups, how-tos, and reflections — will be listed here if you add them.
 
 ---
 
