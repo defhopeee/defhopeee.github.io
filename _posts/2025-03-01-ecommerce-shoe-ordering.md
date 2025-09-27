@@ -1,9 +1,6 @@
 ---
 title: "E-Commerce Shoe Ordering System"
 date: 2025-03-01
-categories: projects
-tags: [PHP, MySQL, JavaScript, Web Development, M-Pesa]
-image: /assets/images/projects/ecom-shoes.png
 layout: post
 ---
 
@@ -19,4 +16,3 @@ layout: post
 **Impact:** Handled 150+ orders/month during pilot run.
 
 **Lessons Learned:** Payment integration details (callback handling, security) and reliable form validation are critical for real-world e-commerce.
-
