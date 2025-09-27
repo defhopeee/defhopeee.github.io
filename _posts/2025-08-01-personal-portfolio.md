@@ -1,9 +1,6 @@
 ---
 title: "Personal Portfolio Website"
 date: 2025-08-01
-categories: projects
-tags: [HTML, CSS, JavaScript, Jekyll, UI/UX]
-image: /assets/images/projects/portfolio.png
 layout: post
 ---
 
