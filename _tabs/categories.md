@@ -5,19 +5,19 @@ layout: page
 
 # Categories
 
-Explore my work by category. Click on any category to see related projects, lab challenges, or blog posts.
+Explore my work by category. Below are the main areas of focus in my portfolio.
 
 ## Portfolio Categories
 
 ### Projects
-Includes all major projects I have developed during my training and freelance work, such as e-commerce systems, exam platforms, and my personal portfolio website.
+Major projects I’ve developed during training and freelance work, such as e-commerce systems, exam platforms, and my personal portfolio website.
 
 ### Lab Challenges
-Showcases technical lab exercises, CTF challenges, and cybersecurity practice scenarios, including detailed problem statements, approaches, tools used, and lessons learned.
+Technical lab exercises, CTF challenges, and cybersecurity practice scenarios, including problem statements, approaches, tools used, and lessons learned.
 
 ### Blog / Reflections
 (Optional) Posts about web development, cybersecurity tips, data analysis insights, or reflections on personal learning journeys.
 
 ---
 
-Click a category to dive deeper and explore the corresponding projects or writeups.
+Each category highlights relevant work and showcases my skills, tools, and lessons learned.
