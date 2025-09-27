@@ -20,4 +20,4 @@ Browse my work by tags to find projects, lab challenges, or posts related to spe
 
 ---
 
-Click any tag to see all related work where that skill or technology was used.
+> Note: Links to individual tag pages are disabled to avoid errors since those pages do not exist. You can still browse work by tags in the content itself.
