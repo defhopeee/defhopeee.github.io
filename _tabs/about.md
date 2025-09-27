@@ -30,4 +30,4 @@ When I’m not coding, I enjoy:
 📬 **Let’s connect!**  
 - [LinkedIn](https://www.linkedin.com/in/hope-nyambura-787a2b367)  
 - [GitHub](https://github.com/defhopeee)  
-- ✉️ Email: defhopeee@gmail.com  
+- ✉️ Email: defhopeee@gmail.com
