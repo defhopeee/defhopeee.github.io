@@ -1,9 +1,6 @@
 ---
 title: "Secure Online Exam System"
 date: 2025-05-01
-categories: projects
-tags: [PHP, JavaScript, MySQL, Web Development, Cybersecurity]
-image: /assets/images/projects/secure-exam.png
 layout: post
 ---
 
